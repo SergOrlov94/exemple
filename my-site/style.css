@@ -132,11 +132,17 @@ body {
   left: 0;
 }
 
+
+
+
+
 .user-image img {
-  width: 688px;
+  margin-top:90px;
+  width: 700px;
   height: 400px;
   margin-left: 16px;
   object-fit: cover;
+  opacity: 0.86;
 }
 
 .intro .container div {
